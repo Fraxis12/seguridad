@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="logo_gbvp.png" alt="Escudo Bomberos France N°3" width="110" />
-
-<h2>GBVP - Perú</h2>
-
-<b>Bomberos France N°3</b><br>
-<img src="https://img.shields.io/badge/GBVP-PER%C3%9A-C9A24B?style=flat-square&labelColor=0B0B14" alt="GBVP - Perú" /> <img src="https://img.shields.io/badge/FUNDADA%20EN-1866-8B261C?style=flat-square&labelColor=0B0B14" alt="Fundada en 1866" /> <img src="https://img.shields.io/badge/FRANCE-N%C2%B03-1F3A8A?style=flat-square&labelColor=0B0B14" alt="France N°3" /><br>
-<img src="https://img.shields.io/badge/%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87-1F3A8A?style=flat-square" alt="" /><img src="https://img.shields.io/badge/%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87-F5F5F5?style=flat-square" alt="" /><img src="https://img.shields.io/badge/%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87-BE1E2D?style=flat-square" alt="" /><br>
-<em>« Sauver ou Périr »</em> · <sub><b>SALVAR O PERECER</b></sub>
+<img src="logo_gbvp.png" alt="Escudo Bomberos France N°3" width="140" />
 
 </div>
 
